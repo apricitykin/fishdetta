@@ -1,3 +1,3 @@
-# fishcord
+# Fishcord
 
-Fishcord is my [https://github.com/vendetta-mod](Vendetta) port of [https://github.com/acquitelol/rosiecord](Rosiecord).
+Fishcord is my [Vednetta](https://github.com/vendetta-mod) port of [Rosiecord](https://github.com/acquitelol/rosiecord).
